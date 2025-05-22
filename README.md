@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Anubuthi
-- 👀 I’m interested in ... web development ,machine learning , data analytics  and business analytics 
-- 🌱 I’m currently learning .. data analytics 
-- 📫 How to reach me ...anubuthi140902@gmail.com ....anubuthi.kottapalli@gmail.com
+- 👋 Hi, I’m Anubuthi
+- 👀 I’m interested in ... Data Science, machine learning, data analytics, business analytics, marketing analytics, GenAI
+- 🌱 I’m currently studying ... Masters in Applied Data science at the University of Chicago  
+- 📫 How to reach me ... anubuthi.kottapalli@gmail.com or anubuthi@uchicago.edu
 
 <!---
 Anubuthi/Anubuthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
