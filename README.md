@@ -222,7 +222,7 @@ Fascinated by the intersection of data science and marketing — conjoint analys
 I'm always excited to collaborate on interesting projects, discuss data science, or just chat about ML and AI!
 
 - 💼 **Open to opportunities** in Data Science, Machine Learning, and AI
-- 🔍 **Looking for** full-time roles starting December 2025
+- 🔍 **Looking for** full-time roles starting Jan 2026
 - 💡 **Interested in** ML research, financial analytics, healthcare AI, and autonomous systems
 - 📧 **Reach me at:** anubuthi@uchicago.edu
 
@@ -231,6 +231,6 @@ I'm always excited to collaborate on interesting projects, discuss data science,
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anubuthi&color=blueviolet&style=for-the-badge)
 
-⭐️ From [Anubuthi](https://github.com/Anubuthi) | Built with 💙 and ☕
+⭐️ From [Anubuthi](https://github.com/Anubuthi) | Built with 💙 and 3 cups of coffee ☕
 
 </div>
