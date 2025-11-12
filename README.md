@@ -226,9 +226,6 @@ I'm always excited to collaborate on interesting projects, discuss data science,
 - 💡 **Interested in** ML research, financial analytics, healthcare AI, and autonomous systems
 - 📧 **Reach me at:** anubuthi@uchicago.edu
 
-<div align="center">
-
-### "Sometimes, a model that tells us when NOT to trust it is more valuable than one that's confidently wrong."
 
 ---
 
