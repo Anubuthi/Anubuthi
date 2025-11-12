@@ -189,19 +189,6 @@ Fascinated by the intersection of data science and marketing — conjoint analys
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Anubuthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anubuthi&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubuthi&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anubuthi&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🏆 Achievements & Certifications
 
